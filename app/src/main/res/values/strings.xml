@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Celular</string>
+
+    <array name="Opciones">
+        <item>@string/crear</item>
+        <item>@string/listar</item>
+    </array>
+    <string name="titulo">Diseña tu celular</string>
+    <string name="titulo_modelo">Escoja el modelo del celular</string>
+    <string name="titulo_Ram">Capacidad de la memoria RAM</string>
+    <string name="titulo_color">Escoja el color del equipo</string>
+    <string name="guardar">Guardar</string>
+
+    <array name="modelos">
+        <item>@string/samsung</item>
+        <item>@string/apple</item>
+        <item>@string/nokia</item>
+    </array>
+
+    <array name="ram">
+        <item>@string/ram2</item>
+        <item>@string/ram4</item>
+    </array>
+
+    <array name="color">
+        <item>@string/blanco</item>
+        <item>@string/negro</item>
+    </array>
+
+    <string name="nokia">Nokia</string>
+    <string name="samsung">Samsung</string>
+    <string name="apple">Apple</string>
+    <string name="ram2">2 GB</string>
+    <string name="ram4">4 GB</string>
+    <string name="blanco">Blanco</string>
+    <string name="negro">Negro</string>
+    <string name="crear">Diseñar celular</string>
+    <string name="listar">Datos almacenados</string>
+    <string name="mensaje_exitoso">Datos Almacenados Correctamente</string>
+    <string name="numero">No.</string>
+    <string name="modelo">Modelo Equipo</string>
+    <string name="capacidad">Capacidad de memoria RAM</string>
+    <string name="color">Color del equipo</string>
+</resources>
